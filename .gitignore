@@ -1,0 +1,40 @@
+# Unreal Engine
+
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+# Visual Studio
+
+.vs/
+.vscode/
+*.VC.db
+*.VC.opendb
+
+# Build files
+
+*.sln
+*.suo
+*.opensdf
+*.sdf
+*.VC.db
+*.VC.VC.opendb
+
+# Unreal generated files
+
+*.xcodeproj
+*.xcworkspace
+
+# OS files
+
+.DS_Store
+Thumbs.db
+
+# Rider
+
+.idea/
+
+# Crash reports
+
+crashinfo/
